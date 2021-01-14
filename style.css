@@ -1,0 +1,40 @@
+header{
+    font-size: 60px;
+    text-align: center;
+    color:black;
+    background-color: lightskyblue;
+    -webkit-background-size: cover;
+    background-size:cover;
+    background-position: center center;
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: lightgreen;
+}
+div.content{
+    background-color: lightgreen
+}
+div.content{
+    font-size: 30px;
+}
+p.title.is-4{
+    background-color: lightskyblue;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+div.card{
+    background-color: lightgreen
+}
+
+
+
+
+
+
+
+
+
+
